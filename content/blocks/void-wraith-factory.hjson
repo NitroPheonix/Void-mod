@@ -1,0 +1,23 @@
+name: Void Wraith Factory
+description: Makes Void Wraith units.
+type: UnitFactory
+unitType: void-wraith
+size: 2
+produceTime: 350
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      silicon/10
+      void/5
+    ]
+  }
+}
+category: units
+research: kiln
+requirements: [
+  void/70
+  void-compound/40
+  silicon/40
+  titanium/20
+]

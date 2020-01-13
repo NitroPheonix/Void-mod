@@ -1,0 +1,5 @@
+type: floor
+name: Dark Matter
+itemDrop: dark-matter
+variants: 3
+playerUnmineable: true

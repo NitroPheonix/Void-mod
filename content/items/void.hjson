@@ -1,0 +1,6 @@
+type: material
+name: Void
+description: A chunk of a black hole
+hardness: 2
+cost: 2
+color: 000000

@@ -1,0 +1,12 @@
+type: Conveyor
+name: Void Compound conveyor
+description: Void conveyor.
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  void-compound/3
+]
+category: distribution
+speed: 0.52
+research: titanium-conveyor
